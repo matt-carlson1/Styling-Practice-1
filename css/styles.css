@@ -1,17 +1,13 @@
 
 
 h1 {  
-  color:blue;
-  background-color: fuchsia;
-}
-h1 {
-  color: blue;
+  color: red;
+  background-color: blue;
   text-align: center;
 }
 
-h2 {
+h1.evidence {
   font-style: italic;
-  text-align: center;
 }
 
 p {
